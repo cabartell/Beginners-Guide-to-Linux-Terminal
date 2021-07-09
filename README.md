@@ -8,7 +8,7 @@ Speaking of the `pwd` command, this command is short for "Print Working Director
 
 To go to a different directory, you can use the `cd` command. This is short for "change directory". The base directory is `/`. If you're used to windows, this is the equivalent of, for example, `C:` for the C drive. Unix-based systems don't split up the drives and just have one single file system consisting of drives mounted/attached to whatever location in the file system suits it. Everything branching out from the `/` directory.
 
-**Note: Superuser**    
+#### **Note: Superuser**    
 Beware that although the `/` directory is sometimes referred to as the root directory, the word "root" has another meaning. root is also the name that has been used for the superuser since the early days of Unix. The superuser, as the name suggests, has more powers than a normal user and can easily wreak havoc with a wrong command.
 
 ## Folders and files
