@@ -1,6 +1,7 @@
 # Beginners-Guide-to-Linux-Terminal
 
 The Linux terminal is a text interface to your computer. Often referred to as the shell, commandline, console, prompt or various other names. As a beginner, it may seem complex and confusing to use but you get used to it quite fast. 
+
 ## Location & the cd command
 When typing in commands, remember that commands are usually case sensitive so typing a command like `pwd` in all caps (`PWD`) could give you a completely different outcome and in some cases, mess up some things. So always double-check :)
 
