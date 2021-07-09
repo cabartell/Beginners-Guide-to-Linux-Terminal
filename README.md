@@ -1,10 +1,10 @@
 # Beginners-Guide-to-Linux-Terminal
 
-The Linux terminal is a text interface to your computer. Often referred to as the shell, commandline, console, prompt or various other names. As a beginner, it may seem complex and confusing to use but you get used to it quite fast. When typing in commands, remember that commands are usually case sensitive so typing a command like `pwd` in all caps (`PWD`) could give you a completely different outcome and in some cases, mess up some things. So always double-check :)
+The Linux terminal is a text interface to your computer. Often referred to as the shell, commandline, console, prompt or various other names. As a beginner, it may seem complex and confusing to use but you get used to it quite fast. 
+## Location & the cd command
+When typing in commands, remember that commands are usually case sensitive so typing a command like `pwd` in all caps (`PWD`) could give you a completely different outcome and in some cases, mess up some things. So always double-check :)
 
 Speaking of the `pwd` command, this command is short for "Print Working Directory" and will tell you which folder you're in! It's useful if you're ever trying to get into a certain folder and are unsure! One important concept to understand is that the terminal assumes the folder you are in as default location in which any file operations will take place. This is its working directory. If you try to create new files or directories, view existing files, or delete them, the terminal will assume you’re looking for them in the current working directory unless you specify otherwise. So it’s important to know what directory you are “in” at any given time, after all,deleting files from the wrong directory could be disastrous.
-
-## Location & the cd command
 
 
 ## Folders and files
