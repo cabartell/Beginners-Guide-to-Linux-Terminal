@@ -41,3 +41,21 @@ mkdir test1 test2 test3
 ```
 this will create 3 folders in the dirctory you are currently in.    
 You can check what's in you current directory with the `ls` command    
+
+#### Create a file
+Let's create a file! This is done like so 
+```
+touch <filename>
+```
+For example 
+```
+touch textfile
+```
+You can write in a file like so
+```
+cat > textfile
+```
+or you can open it in your favourite editor, for example nano
+```
+nano textfile
+```
